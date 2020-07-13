@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Victor Alagwu</h3>
+
+---
+- 🌱 I’m currently learning: Golang
+- 💬 Ask me about : PHP, Laravel, Javascript, Golang😁
+- 📫 How to reach me: vctoralagwu@gmail.com, [Twitter](https://twitter.com/victoralagwu)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing games, Apshalt 9 is my best currently 
+
 
 <!--
 **VictorAlagwu/VictorAlagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
