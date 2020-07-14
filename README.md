@@ -2,7 +2,7 @@
 
 ---
 - 🌱 I’m currently learning: Golang, How to architect and design complex software systems
-- 💬 Ask me about : PHP, Laravel, Javascript, Golang😁
+- 💬 Ask me about : PHP, Laravel, Javascript, Golang
 - 📫 How to reach me: victoralagwu@gmail.com, [Twitter](https://twitter.com/victoralagwu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games, Apshalt 9 is my best currently 
