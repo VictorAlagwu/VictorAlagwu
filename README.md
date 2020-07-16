@@ -9,9 +9,12 @@
 
 ![Victor's Github stats](https://github-readme-stats.vercel.app/api?username=VictorAlagwu)
 
-[![Gophercises](https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises)](https://github.com/VictorAlagwu/gophercises)
-
-[![Learn-Go](https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go)](https://github.com/VictorAlagwu/learn-go)
+<a href="https://github.com/VictorAlagwu/gophercises">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" />
+</a>
+<a href="https://github.com/VictorAlagwu/learn-go">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" />
+</a>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorAlagwu.VictorAlagwu)
