@@ -11,6 +11,8 @@
 
 [![Gophercises](https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises)](https://github.com/VictorAlagwu/gophercises)
 
+[![Learn-Go](https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go)](https://github.com/VictorAlagwu/learn-go)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorAlagwu.VictorAlagwu)
 <!--
