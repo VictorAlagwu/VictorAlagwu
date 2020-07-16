@@ -9,6 +9,8 @@
 
 ![Victor's Github stats](https://github-readme-stats.vercel.app/api?username=VictorAlagwu)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorAlagwu.VictorAlagwu)
+
 <a href="https://github.com/VictorAlagwu/gophercises">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" />
 </a>
@@ -16,8 +18,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" />
 </a>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorAlagwu.VictorAlagwu)
 <!--
 **VictorAlagwu/VictorAlagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
