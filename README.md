@@ -9,6 +9,9 @@
 
 ![Victor's Github stats](https://github-readme-stats.vercel.app/api?username=VictorAlagwu)
 
+[![Gophercises](https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises)](https://github.com/VictorAlagwu/gophercises)
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorAlagwu.VictorAlagwu)
 <!--
 **VictorAlagwu/VictorAlagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
