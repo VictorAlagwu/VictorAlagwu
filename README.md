@@ -6,6 +6,7 @@
 - 📫 How to reach me: victoralagwu@gmail.com, [Twitter](https://twitter.com/victoralagwu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games, Asphalt 9 is my best currently 
+- Open to new opportunities 
 
 ![Victor's Github stats](https://github-readme-stats.vercel.app/api?username=VictorAlagwu)
 
