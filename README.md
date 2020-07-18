@@ -8,13 +8,14 @@
 - ⚡ Fun fact: I love playing games, Asphalt 9 is my best currently 
 - Open to new opportunities 
 
-<a href="https://github.com/VictorAlagwu/gophercises">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" width="425"/>
-</a>
-<a href="https://github.com/VictorAlagwu/learn-go">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" width="425"/>
-</a>
-
+<p float="left">
+  <a href="https://github.com/VictorAlagwu/gophercises">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" width="100" />
+  </a>
+  <a href="https://github.com/VictorAlagwu/learn-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" width="100" />
+  </a>
+</p>
 <!--
 **VictorAlagwu/VictorAlagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
