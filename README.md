@@ -8,10 +8,6 @@
 - ⚡ Fun fact: I love playing games, Asphalt 9 is my best currently 
 - Open to new opportunities 
 
-![Victor's Github stats](https://github-readme-stats.vercel.app/api?username=VictorAlagwu)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorAlagwu.VictorAlagwu)
-
 <a href="https://github.com/VictorAlagwu/gophercises">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" />
 </a>
