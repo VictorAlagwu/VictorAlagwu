@@ -9,10 +9,10 @@
 - Open to new opportunities 
 
 <a href="https://github.com/VictorAlagwu/gophercises">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" width="425"/>
 </a>
 <a href="https://github.com/VictorAlagwu/learn-go">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" width="425"/>
 </a>
 
 <!--
