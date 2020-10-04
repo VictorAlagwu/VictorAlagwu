@@ -8,14 +8,6 @@
 - ⚡ Fun fact: I love playing games.
 - Open to new opportunities 
 
-<p float="left">
-  <a href="https://github.com/VictorAlagwu/gophercises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=gophercises" width="350" />
-  </a>
-  <a href="https://github.com/VictorAlagwu/learn-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorAlagwu&repo=learn-go" width="350" />
-  </a>
-</p>
 <!--
 **VictorAlagwu/VictorAlagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
