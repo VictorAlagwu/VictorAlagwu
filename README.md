@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Victor Alagwu</h3>
 
 ---
-- 🌱 I’m currently learning: Golang, How to architect and design complex software systems
+- 🌱 I’m currently learning: Golang
 - 💬 Ask me about : PHP, Laravel, Javascript, Golang
 - 📫 How to reach me: victoralagwu@gmail.com, [Twitter](https://twitter.com/victoralagwu)
 - 😄 Pronouns: He/Him
