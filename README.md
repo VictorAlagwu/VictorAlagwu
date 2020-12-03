@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I love playing games.
 - Open to new opportunities 
 
-![Victor Wakatime https://wakatime.com/](https://wakatime.com/share/@VictorAlagwu/248ca7e5-43a3-4e97-b91b-508d16360caa.png)
+![Victor Wakatime https://wakatime.com/](https://wakatime.com/share/@VictorAlagwu/d8078e42-dd33-4b53-927f-ed4999e889fe.svg)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light)](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light)
