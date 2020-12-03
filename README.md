@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I love playing games.
 - Open to new opportunities 
 
+.. image:: https://wakatime.com/share/@VictorAlagwu/248ca7e5-43a3-4e97-b91b-508d16360caa.png
+    :target: https://wakatime.com/
 <!--
 **VictorAlagwu/VictorAlagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
