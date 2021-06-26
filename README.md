@@ -14,4 +14,4 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light)](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light)
 
-> From 3rd December 2020  [![> 3rd December 2020 | Visits Badge](https://badges.pufler.dev/visits/victoralagwu/victoralagwu)](https://badges.pufler.dev/visits/victoralagwu/victoralagwu)
+[![Visits Badge](https://badges.pufler.dev/visits/victoralagwu/victoralagwu)](https://badges.pufler.dev/visits/victoralagwu/victoralagwu)
