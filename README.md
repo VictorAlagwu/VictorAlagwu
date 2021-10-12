@@ -8,7 +8,7 @@
 - 📫 How to reach me: victoralagwu@gmail.com, [Twitter](https://twitter.com/victoralagwu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games.
-- Open to new opportunities
+- Open to new opportunities to work with awesome technologies.
 <!-- 
 [![Stats](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light)](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light) -->
 
