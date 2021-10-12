@@ -13,5 +13,4 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light)](https://github-readme-stats.vercel.app/api?username=victoralagwu&show_icons=true&theme=light) -->
 
 [![wakatime](https://wakatime.com/badge/user/2db43970-6df9-41ad-9602-da9cc0066828.svg)](https://wakatime.com/@2db43970-6df9-41ad-9602-da9cc0066828)
-
 [![Visits Badge](https://badges.pufler.dev/visits/victoralagwu/victoralagwu)](https://badges.pufler.dev/visits/victoralagwu/victoralagwu)
